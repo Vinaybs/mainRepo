@@ -1,0 +1,3 @@
+[submodule "bowlingScorer"]
+	path = bowlingScorer
+	url = https://github.com/Vinaybs/bowlingScorer.git
